@@ -2,7 +2,7 @@
 
 ## 1. Data preparation
 - New features: 
-  - <span style="color:yellow"> Acceleration (an)
+  - <span style="color:orange"> Acceleration (an)
   - <span style="color:red"> duration( events)
   - <span style="color:green"> one hot encoding event, seq or set
   - <span style="color:green"> Alimentation (AC/DC/Battery)
@@ -18,7 +18,7 @@
     - <span style="color:red"> use relevence factor (on ev., Al./ev., Acc./ev., Al./Acc., Al./Acc./ev. )
     - <span style="color:red"> F1 score ?
     - <span style="color:red"> add less relevent factors one by one
-  
+
 ## 2. Data mining:
 - Frequent set / sequence
   - <span style="color:green"> FP-Growth
