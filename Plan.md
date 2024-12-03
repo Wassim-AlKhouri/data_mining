@@ -3,7 +3,7 @@
 ## 1. Data preparation
 - New features: 
   - <span style="color:orange"> Acceleration (an)
-  - <span style="color:red"> duration( events)
+  - <span style="color:green"> duration( events)
   - <span style="color:green"> one hot encoding event, seq or set
   - <span style="color:green"> Alimentation (AC/DC/Battery)
 
