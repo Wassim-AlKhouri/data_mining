@@ -1,0 +1,4 @@
+support;itemsets
+1.0;['DC']
+0.75;['Battery']
+0.75;['DC', 'Battery']
