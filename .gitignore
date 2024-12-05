@@ -1,3 +1,7 @@
 results/
 models/models/
 models/test_data/
+unique_events_OHE.csv
+sncb_prepared.csv
+OHE_frequent.csv
+unique_events_OHE.csv
