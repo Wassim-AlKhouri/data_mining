@@ -75,9 +75,10 @@ data = pd.read_csv('sncb_speed.csv', sep=';')
 def load_itemsets(directory):
     itemsets = set()
     for filename in os.listdir(directory):
-        print(f'Loading {filename}...')
-        incident_frequent_itemset = pd.read_csv(f'{directory}/{filename}', sep=',', nrows=100)
+        incident_frequent_itemset = pd.read_csv(f'{directory}/{filename}', sep=',', nrows=1000)
         for _, row in incident_frequent_itemset.iterrows():
+            if row['Relevance'] < 2:
+                continue
             itemsets.add(row['Sequence'])
     return list(itemsets)
 
