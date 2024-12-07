@@ -3,7 +3,7 @@ from mlxtend.frequent_patterns import fpgrowth
 import ast
 from multiprocessing import Pool
 
-MIN_SUPPORT = 0.9  # Adjusted to avoid overly restrictive filtering
+MIN_SUPPORT = 0.7  # Adjusted to avoid overly restrictive filtering
 
 def process_incident_type(args):
     """
@@ -38,13 +38,16 @@ def process_incident_type(args):
         min_support = 0.5
     if incident == 3:#
         min_support = 0.5
-    """
+    
     if incident == 99:#
         min_support = 0.8
     if incident == 3:#
         min_support = 0.8
     if incident == 17:#
         min_support = 0.7
+    
+    """
+    
     # Prepare transactions: each transaction is a sequence of events
     transactions = filtered_data['events + speed + alimentation']
 

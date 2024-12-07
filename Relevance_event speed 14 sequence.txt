@@ -1,0 +1,1583 @@
+14
+ max relevance: 2.1695278969957084
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5871043004867933, 219155, 0.7315436241610739)
+ min relevance: 0.014560589912722873
+
+ max relevance: 2.1695278969957084
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5871043004867933, 360023, 0.7315436241610739)
+ min relevance: 0.014560589912722873
+
+ max relevance: 2.1695278969957084
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5871043004867933, 505217, 0.7315436241610739)
+ min relevance: 0.014560589912722873
+
+ max relevance: 2.1695278969957084
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5871043004867933, 543251, 0.7315436241610739)
+ min relevance: 0.014560589912722873
+
+ max relevance: 2.164882226980728
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery')], 1.5837057902073783, 95992, 0.7315436241610739)
+ min relevance: 0.014529410919333746
+
+ max relevance: 2.164882226980728
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5837057902073783, 99621, 0.7315436241610739)
+ min relevance: 0.014529410919333746
+
+ max relevance: 2.164882226980728
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5837057902073783, 137788, 0.7315436241610739)
+ min relevance: 0.014529410919333746
+
+ max relevance: 2.164882226980728
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery')], 1.5837057902073783, 296129, 0.7315436241610739)
+ min relevance: 0.014529410919333746
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 3703, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 33248, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 82964, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5793219162230965, 103117, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 111472, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 138197, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 152072, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 165061, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 170424, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 193260, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 206173, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5793219162230965, 210360, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 226736, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 270481, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 290470, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5793219162230965, 296537, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 325959, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 335798, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 353869, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5793219162230965, 358013, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 363706, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5793219162230965, 371298, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5793219162230965, 406868, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5793219162230965, 411724, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 436974, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 484914, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5793219162230965, 489134, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.1788793103448274
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5793219162230965, 546512, 0.7248322147651006)
+ min relevance: 0.014623351076139782
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 29740, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 51642, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 71018, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 88734, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 89778, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 120802, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 121462, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery')], 1.5759255250054123, 132714, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 145956, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 147809, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 169431, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 181545, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery')], 1.5759255250054123, 212602, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 278284, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 281422, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 286236, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 287993, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5759255250054123, 309706, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 321471, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5759255250054123, 336040, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5759255250054123, 346519, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 423444, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 447394, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 459997, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery')], 1.5759255250054123, 494067, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(4030, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 498116, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5759255250054123, 531493, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 2.174193548387097
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5759255250054123, 535630, 0.7248322147651006)
+ min relevance: 0.014591903009309374
+
+ max relevance: 1.9293893129770994
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.566819509196168, 13348, 0.8120805369127517)
+ min relevance: 0.012948921563604695
+
+ max relevance: 1.9442307692307694
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5658234383066598, 166971, 0.8053691275167785)
+ min relevance: 0.0130485286525555
+
+ max relevance: 1.8282097649186257
+([(3986, 'Stopped', 'Battery')], 1.5582727526487616, 199379, 0.8523489932885906)
+ min relevance: 0.012269864194084736
+
+ max relevance: 1.855045871559633
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery')], 1.5562465365433162, 315429, 0.8389261744966443)
+ min relevance: 0.01244997229234653
+
+ max relevance: 1.9980237154150198
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5152797304825318, 124085, 0.7583892617449665)
+ min relevance: 0.013409555137013555
+
+ max relevance: 1.9940828402366864
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5122910130654066, 256839, 0.7583892617449665)
+ min relevance: 0.013383106310313331
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.510827651540422, 7787, 0.7516778523489933)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.510827651540422, 59469, 0.7516778523489933)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.510827651540422, 250572, 0.7516778523489933)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.510827651540422, 254918, 0.7516778523489933)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.510827651540422, 349949, 0.7516778523489933)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.510827651540422, 434036, 0.7516778523489933)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.005952380952381
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5078299776286355, 15111, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5078299776286355, 155667, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5078299776286355, 167829, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5078299776286355, 286546, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5078299776286355, 295832, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5078299776286355, 375159, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5078299776286355, 384530, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5078299776286355, 388705, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5078299776286355, 392473, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5078299776286355, 439502, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5078299776286355, 466149, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5078299776286355, 467843, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.005952380952381
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5078299776286355, 514729, 0.7516778523489933)
+ min relevance: 0.01346276765739853
+
+ max relevance: 2.001980198019802
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.504844175692737, 62119, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.001980198019802
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.504844175692737, 179171, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.001980198019802
+([(4110, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.504844175692737, 199941, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.001980198019802
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.504844175692737, 220125, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.001980198019802
+([(4110, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.504844175692737, 231371, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.001980198019802
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.504844175692737, 403350, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.001980198019802
+([(4110, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.504844175692737, 511841, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.001980198019802
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.504844175692737, 531543, 0.7516778523489933)
+ min relevance: 0.013436108711542294
+
+ max relevance: 2.1329113924050636
+([(4002, 'Stopped', 'Battery')], 1.5030583637753803, 241302, 0.7046979865771812)
+ min relevance: 0.014314841559765526
+
+ max relevance: 1.963106796116505
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5019743272300776, 168456, 0.7651006711409396)
+ min relevance: 0.013175213396755066
+
+ max relevance: 1.9980237154150198
+([(4110, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.5018701753455184, 393588, 0.7516778523489933)
+ min relevance: 0.013409555137013555
+
+ max relevance: 1.9784735812133074
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.5004531186382801, 47853, 0.7583892617449665)
+ min relevance: 0.013278346182639646
+
+ max relevance: 1.9784735812133074
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.5004531186382801, 441054, 0.7583892617449665)
+ min relevance: 0.013278346182639646
+
+ max relevance: 1.9784735812133074
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5004531186382801, 456129, 0.7583892617449665)
+ min relevance: 0.013278346182639646
+
+ max relevance: 1.9784735812133074
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.5004531186382801, 480777, 0.7583892617449665)
+ min relevance: 0.013278346182639646
+
+ max relevance: 1.9593023255813955
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4990635242703294, 14878, 0.7651006711409396)
+ min relevance: 0.01314968003745903
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4975225461409396, 107816, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery')], 1.4975225461409396, 157258, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4975225461409396, 190790, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4975225461409396, 248045, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4975225461409396, 251532, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4975225461409396, 345993, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4975225461409396, 388138, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4975225461409396, 391526, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4975225461409396, 396009, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.974609375
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4975225461409396, 404853, 0.7583892617449665)
+ min relevance: 0.013252411912751678
+
+ max relevance: 1.9707602339181287
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4946033988775071, 118887, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery')], 1.4946033988775071, 152152, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4946033988775071, 215206, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4946033988775071, 343934, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4946033988775071, 355481, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(3986, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4946033988775071, 383818, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4946033988775071, 422063, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(4110, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4946033988775071, 502595, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9707602339181287
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4946033988775071, 531687, 0.7583892617449665)
+ min relevance: 0.013226578751128381
+
+ max relevance: 1.9669260700389106
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4916956101637375, 422290, 0.7583892617449665)
+ min relevance: 0.013200846107643695
+
+ max relevance: 1.9669260700389106
+([(3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4916956101637375, 438171, 0.7583892617449665)
+ min relevance: 0.013200846107643695
+
+ max relevance: 1.9669260700389106
+([(3986, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4916956101637375, 513181, 0.7583892617449665)
+ min relevance: 0.013200846107643695
+
+ max relevance: 1.963106796116505
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4887991138333225, 527045, 0.7583892617449665)
+ min relevance: 0.013175213396755066
+
+ max relevance: 1.9593023255813955
+([(3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4859138442328703, 517284, 0.7583892617449665)
+ min relevance: 0.01314968003745903
+
+ max relevance: 1.9862475442043221
+([(3986, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4663572473991642, 376237, 0.738255033557047)
+ min relevance: 0.013330520430901492
+
+ max relevance: 1.9862475442043221
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4663572473991642, 529916, 0.738255033557047)
+ min relevance: 0.013330520430901492
+
+ max relevance: 2.0139442231075697
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4597716516484396, 69721, 0.7248322147651006)
+ min relevance: 0.013516404181929998
+
+ max relevance: 2.0139442231075697
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4597716516484396, 485638, 0.7248322147651006)
+ min relevance: 0.013516404181929998
+
+ max relevance: 2.03420523138833
+([(4026, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4471527149474024, 85804, 0.7114093959731543)
+ min relevance: 0.013652384103277381
+
+ max relevance: 2.03420523138833
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4471527149474024, 443958, 0.7114093959731543)
+ min relevance: 0.013652384103277381
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4433799885252243, 20257, 0.7181208053691275)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.0099403578528827
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4433799885252243, 428248, 0.7181208053691275)
+ min relevance: 0.013489532603039481
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4422057984403445, 2711, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4422057984403445, 27151, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4422057984403445, 56589, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4422057984403445, 81835, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4422057984403445, 94839, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4422057984403445, 221735, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4422057984403445, 305791, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4422057984403445, 362416, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.4422057984403445, 405315, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4422057984403445, 450886, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4422057984403445, 465039, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0465587044534415
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4422057984403445, 519419, 0.7046979865771812)
+ min relevance: 0.013735293318479473
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 31337, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery')], 1.4392922513727884, 33513, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4392922513727884, 45448, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 49609, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 72375, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 165542, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 172689, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 215644, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 338950, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4392922513727884, 349989, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4392922513727884, 355918, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4392922513727884, 369269, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4392922513727884, 376473, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.0424242424242425
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4392922513727884, 394367, 0.7046979865771812)
+ min relevance: 0.013707545251169413
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.438469798657718, 51202, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.438469798657718, 68060, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.438469798657718, 164976, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(4026, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.438469798657718, 212801, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.438469798657718, 228358, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.438469798657718, 278070, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.438469798657718, 300091, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.438469798657718, 392419, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.438469798657718, 415526, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.438469798657718, 419727, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.438469798657718, 433153, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.022
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.438469798657718, 476382, 0.7114093959731543)
+ min relevance: 0.013570469798657718
+
+ max relevance: 2.038306451612903
+([(4110, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4363904524788915, 188727, 0.7046979865771812)
+ min relevance: 0.013679909071227537
+
+ max relevance: 2.038306451612903
+([(3986, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4363904524788915, 398582, 0.7046979865771812)
+ min relevance: 0.013679909071227537
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4355986014548083, 22521, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 65228, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4355986014548083, 76360, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 201311, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 209173, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 217989, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4355986014548083, 232589, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(2852, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 235652, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4355986014548083, 243537, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 254487, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 341349, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.4355986014548083, 374266, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.4355986014548083, 383598, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0179640718562872
+([(4026, 'Stopped', 'Battery'), (3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4355986014548083, 500841, 0.7114093959731543)
+ min relevance: 0.013543383032592532
+
+ max relevance: 2.0139442231075697
+([(3986, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4327388432845798, 251570, 0.7114093959731543)
+ min relevance: 0.013516404181929998
+
+ max relevance: 2.0139442231075697
+([(3986, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.4327388432845798, 489255, 0.7114093959731543)
+ min relevance: 0.013516404181929998
+
+ max relevance: 1.61244019138756
+([(2708, 'Stopped', 'Battery')], 1.4176487588709419, 361401, 0.8791946308724832)
+ min relevance: 0.01082174625092322
+
+ max relevance: 1.6332794830371566
+([(4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.4140473376630416, 380804, 0.8657718120805369)
+ min relevance: 0.010961607268705749
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3999276465158055, 32078, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 36175, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3999276465158055, 43387, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 50859, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 81981, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 84360, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 119455, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3999276465158055, 161141, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3999276465158055, 197256, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 201548, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 222601, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 256225, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3999276465158055, 259737, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 298187, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 323534, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 337421, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 344813, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 383482, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 420687, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 428356, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 433213, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 461095, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3999276465158055, 463696, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 495167, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3999276465158055, 509543, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 513703, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 523853, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.8791821561338289
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3999276465158055, 534303, 0.7449664429530202)
+ min relevance: 0.01261196077942167
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3973303781549227, 1428, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 33148, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 49364, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 69725, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3973303781549227, 79907, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(2708, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 191893, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3973303781549227, 209839, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 221052, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 250286, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery')], 1.3973303781549227, 253006, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 299180, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 324503, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 336158, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 343271, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 345276, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery')], 1.3973303781549227, 351888, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3973303781549227, 378977, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 383187, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 401875, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 409499, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3973303781549227, 411316, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 415525, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 423814, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 426814, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 488017, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4110, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 494137, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3973303781549227, 532883, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.87569573283859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3973303781549227, 538385, 0.7449664429530202)
+ min relevance: 0.012588561965359664
+
+ max relevance: 1.8381818181818181
+([(4030, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3940573520439292, 80818, 0.7583892617449665)
+ min relevance: 0.012336790726052472
+
+ max relevance: 1.8381818181818181
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3940573520439292, 106063, 0.7583892617449665)
+ min relevance: 0.012336790726052472
+
+ max relevance: 1.8381818181818181
+([(4030, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3940573520439292, 259566, 0.7583892617449665)
+ min relevance: 0.012336790726052472
+
+ max relevance: 1.8381818181818181
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3940573520439292, 533258, 0.7583892617449665)
+ min relevance: 0.012336790726052472
+
+ max relevance: 1.5364741641337385
+([(4140, 'Stopped', 'Battery')], 1.3921074641480184, 519008, 0.906040268456376)
+ min relevance: 0.01031190714183717
+
+ max relevance: 1.8315217391304348
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery')], 1.3890064196089875, 12246, 0.7583892617449665)
+ min relevance: 0.012292092208929092
+
+ max relevance: 1.8315217391304348
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3890064196089875, 127646, 0.7583892617449665)
+ min relevance: 0.012292092208929092
+
+ max relevance: 1.8315217391304348
+([(4030, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3890064196089875, 258123, 0.7583892617449665)
+ min relevance: 0.012292092208929092
+
+ max relevance: 1.8315217391304348
+([(4030, 'Stopped', 'Battery')], 1.3890064196089875, 428619, 0.7583892617449665)
+ min relevance: 0.012292092208929092
+
+ max relevance: 1.685
+([(4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3570469798657718, 323193, 0.8053691275167785)
+ min relevance: 0.011308724832214765
+
+ max relevance: 1.7252559726962458
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3547312000366494, 73921, 0.785234899328859)
+ min relevance: 0.011578899145612387
+
+ max relevance: 1.7252559726962458
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3547312000366494, 108191, 0.785234899328859)
+ min relevance: 0.011578899145612387
+
+ max relevance: 1.7252559726962458
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3547312000366494, 134110, 0.785234899328859)
+ min relevance: 0.011578899145612387
+
+ max relevance: 1.7252559726962458
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3547312000366494, 265247, 0.785234899328859)
+ min relevance: 0.011578899145612387
+
+ max relevance: 1.7252559726962458
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3547312000366494, 274621, 0.785234899328859)
+ min relevance: 0.011578899145612387
+
+ max relevance: 1.7252559726962458
+([(2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3547312000366494, 309497, 0.785234899328859)
+ min relevance: 0.011578899145612387
+
+ max relevance: 1.7223168654173766
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3524233104284098, 47662, 0.785234899328859)
+ min relevance: 0.011559173593405211
+
+ max relevance: 1.7223168654173766
+([(2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3524233104284098, 52168, 0.785234899328859)
+ min relevance: 0.011559173593405211
+
+ max relevance: 1.7223168654173766
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3524233104284098, 82141, 0.785234899328859)
+ min relevance: 0.011559173593405211
+
+ max relevance: 1.7223168654173766
+([(4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3524233104284098, 127122, 0.785234899328859)
+ min relevance: 0.011559173593405211
+
+ max relevance: 1.7223168654173766
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3524233104284098, 323714, 0.785234899328859)
+ min relevance: 0.011559173593405211
+
+ max relevance: 1.7223168654173766
+([(4110, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3524233104284098, 442656, 0.785234899328859)
+ min relevance: 0.011559173593405211
+
+ max relevance: 1.7223168654173766
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3524233104284098, 546422, 0.785234899328859)
+ min relevance: 0.011559173593405211
+
+ max relevance: 1.6766169154228854
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3502955023540015, 99946, 0.8053691275167785)
+ min relevance: 0.01125246251961668
+
+ max relevance: 1.719387755102041
+([(2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.350123270784824, 43158, 0.785234899328859)
+ min relevance: 0.011539515134913025
+
+ max relevance: 1.719387755102041
+([(4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.350123270784824, 68591, 0.785234899328859)
+ min relevance: 0.011539515134913025
+
+ max relevance: 1.719387755102041
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.350123270784824, 74147, 0.785234899328859)
+ min relevance: 0.011539515134913025
+
+ max relevance: 1.719387755102041
+([(2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.350123270784824, 149124, 0.785234899328859)
+ min relevance: 0.011539515134913025
+
+ max relevance: 1.719387755102041
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.350123270784824, 179127, 0.785234899328859)
+ min relevance: 0.011539515134913025
+
+ max relevance: 1.719387755102041
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.350123270784824, 266348, 0.785234899328859)
+ min relevance: 0.011539515134913025
+
+ max relevance: 1.719387755102041
+([(4110, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.350123270784824, 395529, 0.785234899328859)
+ min relevance: 0.011539515134913025
+
+ max relevance: 1.7020202020202022
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3479086163649923, 83628, 0.7919463087248322)
+ min relevance: 0.011422954375974511
+
+ max relevance: 1.7020202020202022
+([(4110, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3479086163649923, 300044, 0.7919463087248322)
+ min relevance: 0.011422954375974511
+
+ max relevance: 1.7020202020202022
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3479086163649923, 325236, 0.7919463087248322)
+ min relevance: 0.011422954375974511
+
+ max relevance: 1.7020202020202022
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3479086163649923, 381909, 0.7919463087248322)
+ min relevance: 0.011422954375974511
+
+ max relevance: 1.7164685908319186
+([(2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.34783104112305, 68603, 0.785234899328859)
+ min relevance: 0.011519923428402138
+
+ max relevance: 1.7164685908319186
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.34783104112305, 234707, 0.785234899328859)
+ min relevance: 0.011519923428402138
+
+ max relevance: 1.7164685908319186
+([(4110, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.34783104112305, 305031, 0.785234899328859)
+ min relevance: 0.011519923428402138
+
+ max relevance: 1.7164685908319186
+([(4110, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.34783104112305, 336344, 0.785234899328859)
+ min relevance: 0.011519923428402138
+
+ max relevance: 1.7164685908319186
+([(2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.34783104112305, 362647, 0.785234899328859)
+ min relevance: 0.011519923428402138
+
+ max relevance: 1.7164685908319186
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.34783104112305, 427872, 0.785234899328859)
+ min relevance: 0.011519923428402138
+
+ max relevance: 1.7164685908319186
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.34783104112305, 521731, 0.785234899328859)
+ min relevance: 0.011519923428402138
+
+ max relevance: 1.6991596638655464
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.345643223732446, 176, 0.7919463087248322)
+ min relevance: 0.011403756133325813
+
+ max relevance: 1.6991596638655464
+([(2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.345643223732446, 53655, 0.7919463087248322)
+ min relevance: 0.011403756133325813
+
+ max relevance: 1.6991596638655464
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.345643223732446, 135384, 0.7919463087248322)
+ min relevance: 0.011403756133325813
+
+ max relevance: 1.6991596638655464
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery')], 1.345643223732446, 226802, 0.7919463087248322)
+ min relevance: 0.011403756133325813
+
+ max relevance: 1.6991596638655464
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.345643223732446, 275911, 0.7919463087248322)
+ min relevance: 0.011403756133325813
+
+ max relevance: 1.6991596638655464
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.345643223732446, 442200, 0.7919463087248322)
+ min relevance: 0.011403756133325813
+
+ max relevance: 1.7135593220338983
+([(4110, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery')], 1.3455465817313161, 102038, 0.785234899328859)
+ min relevance: 0.011500398134455693
+
+ max relevance: 1.6963087248322148
+([(4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3433854330885997, 70137, 0.7919463087248322)
+ min relevance: 0.011384622314310167
+
+ max relevance: 1.6963087248322148
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3433854330885997, 236193, 0.7919463087248322)
+ min relevance: 0.011384622314310167
+
+ max relevance: 1.6963087248322148
+([(4110, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3433854330885997, 306512, 0.7919463087248322)
+ min relevance: 0.011384622314310167
+
+ max relevance: 1.6963087248322148
+([(4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3433854330885997, 332583, 0.7919463087248322)
+ min relevance: 0.011384622314310167
+
+ max relevance: 1.6963087248322148
+([(2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3433854330885997, 412285, 0.7919463087248322)
+ min relevance: 0.011384622314310167
+
+ max relevance: 1.6963087248322148
+([(2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3433854330885997, 474303, 0.7919463087248322)
+ min relevance: 0.011384622314310167
+
+ max relevance: 1.6963087248322148
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3433854330885997, 523293, 0.7919463087248322)
+ min relevance: 0.011384622314310167
+
+ max relevance: 1.6519607843137254
+([(4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3415252006843006, 238006, 0.8120805369127517)
+ min relevance: 0.011086985129622319
+
+ max relevance: 1.6934673366834172
+([(2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.3411352062325048, 20911, 0.7919463087248322)
+ min relevance: 0.011365552595190719
+
+ max relevance: 1.6934673366834172
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3411352062325048, 285495, 0.7919463087248322)
+ min relevance: 0.011365552595190719
+
+ max relevance: 1.6934673366834172
+([(2854, 'Stopped', 'Battery')], 1.3411352062325048, 356299, 0.7919463087248322)
+ min relevance: 0.011365552595190719
+
+ max relevance: 1.6934673366834172
+([(2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3411352062325048, 364107, 0.7919463087248322)
+ min relevance: 0.011365552595190719
+
+ max relevance: 1.6934673366834172
+([(2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3411352062325048, 428714, 0.7919463087248322)
+ min relevance: 0.011365552595190719
+
+ max relevance: 1.6934673366834172
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3411352062325048, 477971, 0.7919463087248322)
+ min relevance: 0.011365552595190719
+
+ max relevance: 1.6906354515050168
+([(4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3388925052187381, 192659, 0.7919463087248322)
+ min relevance: 0.011346546654396087
+
+ max relevance: 1.6906354515050168
+([(2852, 'Stopped', 'Battery')], 1.3388925052187381, 313083, 0.7919463087248322)
+ min relevance: 0.011346546654396087
+
+ max relevance: 1.6906354515050168
+([(2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.3388925052187381, 318435, 0.7919463087248322)
+ min relevance: 0.011346546654396087
+
+ max relevance: 1.6906354515050168
+([(4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3388925052187381, 507603, 0.7919463087248322)
+ min relevance: 0.011346546654396087
+
+ max relevance: 1.6439024390243901
+([(4026, 'Stopped', 'Battery')], 1.3349811753151088, 218343, 0.8120805369127517)
+ min relevance: 0.011032902275331477
+
+ max relevance: 1.685
+([(4110, 'Stopped', 'Battery')], 1.3344295302013423, 172968, 0.7919463087248322)
+ min relevance: 0.011308724832214765
+
+ max relevance: 1.8653136531365313
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (4030, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.3270016592783376, 165791, 0.7114093959731542)
+ min relevance: 0.012518883578097526
+
+ max relevance: 1.8653136531365313
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3270016592783376, 247351, 0.7114093959731542)
+ min relevance: 0.012518883578097526
+
+ max relevance: 1.8653136531365313
+([(4030, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3270016592783376, 356460, 0.7114093959731542)
+ min relevance: 0.012518883578097526
+
+ max relevance: 1.8653136531365313
+([(4030, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3270016592783376, 392516, 0.7114093959731542)
+ min relevance: 0.012518883578097526
+
+ max relevance: 1.673841059602649
+([(2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3255922485443796, 461650, 0.7919463087248322)
+ min relevance: 0.011233832614782878
+
+ max relevance: 1.8584558823529411
+([(4030, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3221229767074614, 38326, 0.7114093959731543)
+ min relevance: 0.012472858270825109
+
+ max relevance: 1.8584558823529411
+([(4030, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3221229767074614, 72589, 0.7114093959731543)
+ min relevance: 0.012472858270825109
+
+ max relevance: 1.8584558823529411
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3221229767074614, 467634, 0.7114093959731543)
+ min relevance: 0.012472858270825109
+
+ max relevance: 1.8584558823529411
+([(4030, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3221229767074614, 490869, 0.7114093959731543)
+ min relevance: 0.012472858270825109
+
+ max relevance: 1.6821963394342763
+([(4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.3209192732470492, 136193, 0.785234899328859)
+ min relevance: 0.011289908318350847
+
+ max relevance: 1.6150159744408945
+([(4168, 'Stopped', 'Battery')], 1.3115230396466326, 175850, 0.8120805369127517)
+ min relevance: 0.01083903338550936
+
+ max relevance: 1.6280193236714975
+([(4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.300230198100055, 195404, 0.7986577181208053)
+ min relevance: 0.010926304185714749
+
+ max relevance: 1.7106598984771575
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2973460975028106, 385949, 0.7583892617449665)
+ min relevance: 0.011480938915954076
+
+ max relevance: 1.7077702702702704
+([(4026, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2951546345002722, 47848, 0.7583892617449665)
+ min relevance: 0.011461545438055505
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2935456480522955, 78846, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.2935456480522955, 95682, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2935456480522955, 181581, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2935456480522955, 189145, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery')], 1.2935456480522955, 210237, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(4026, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2935456480522955, 250002, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.2935456480522955, 284476, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(4026, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2935456480522955, 325648, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.2935456480522955, 329059, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2935456480522955, 490522, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2935456480522955, 504060, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.752166377816291
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2935456480522955, 530570, 0.738255033557047)
+ min relevance: 0.011759505891384504
+
+ max relevance: 1.7341337907375642
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2918714816904002, 26108, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2918714816904002, 65189, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2918714816904002, 87220, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(4110, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2918714816904002, 158753, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2918714816904002, 184308, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2918714816904002, 263717, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2918714816904002, 394220, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.2918714816904002, 403538, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2918714816904002, 407238, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2918714816904002, 419867, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(2852, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2918714816904002, 453352, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7341337907375642
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2918714816904002, 483109, 0.7449664429530201)
+ min relevance: 0.011638481817030633
+
+ max relevance: 1.7491349480968859
+([(2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 681, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(4110, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 79408, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 122544, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2708, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.29130767980307, 144042, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery')], 1.29130767980307, 160522, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.29130767980307, 164649, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(4110, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 208696, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.29130767980307, 209832, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 400281, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2708, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.29130767980307, 458547, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 469807, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.29130767980307, 484141, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2852, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 510637, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.7491349480968859
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.29130767980307, 540175, 0.738255033557047)
+ min relevance: 0.011739160725482454
+
+ max relevance: 1.731164383561644
+([(2854, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 127415, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2852, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 136286, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 138292, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 166286, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 177133, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 192873, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2854, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 329028, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(4140, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 407819, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 408145, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2854, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 431721, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(4140, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery'), (2852, 'Stopped', 'Battery'), (2854, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery')], 1.2896593729888757, 433963, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 439006, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(4110, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 469897, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.731164383561644
+([(2852, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2896593729888757, 530111, 0.7449664429530202)
+ min relevance: 0.01161855290980969
+
+ max relevance: 1.685
+([(4140, 'Stopped', 'Battery'), (4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2891946308724833, 320079, 0.7651006711409396)
+ min relevance: 0.011308724832214765
+
+ max relevance: 1.7461139896373057
+([(4110, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2890774420141184, 293732, 0.738255033557047)
+ min relevance: 0.011718885836491983
+
+ max relevance: 1.7461139896373057
+([(4110, 'Stopped', 'Battery'), (4140, 'Stopped', 'Battery'), (2708, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2890774420141184, 488810, 0.738255033557047)
+ min relevance: 0.011718885836491983
+
+ max relevance: 1.7282051282051283
+([(4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2874548270521426, 320858, 0.7449664429530202)
+ min relevance: 0.011598692135604887
+
+ max relevance: 1.7282051282051283
+([(4140, 'Stopped', 'Battery'), (4110, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2874548270521426, 543748, 0.7449664429530202)
+ min relevance: 0.011598692135604887
+
+ max relevance: 1.6821963394342763
+([(4026, 'Stopped', 'Battery'), (4168, 'Stopped', 'Battery')], 1.2870495482919966, 233657, 0.7651006711409395)
+ min relevance: 0.011289908318350847
+
+ max relevance: 1.1037117903930131
+([(2708, 'Stopped', 'DC')], 0.8148207848539023, 518750, 0.738255033557047)
+ min relevance: 0.00740746168049002
+
+ max relevance: 1.1397970687711387
+([(2708, 'Stopped', 'DC'), (4026, 'Stopped', 'DC')], 0.8108623442264475, 110172, 0.7114093959731543)
+ min relevance: 0.007649644756853279
+
+ max relevance: 1.1220865704772476
+([(4026, 'Stopped', 'DC')], 0.8057937116850032, 520259, 0.7181208053691275)
+ min relevance: 0.007530782352196292
+
+====================================================== END ======================================================
+=============================================================================================================
