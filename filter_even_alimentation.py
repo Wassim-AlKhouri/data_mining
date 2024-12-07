@@ -11,8 +11,7 @@ def listofallsequences(args):
     incident, results3 = args  # Extract arguments
     sequences = []
     for sequence in results3[f'results3_{incident}.csv']['itemsets']:
-        if sequence not in sequences:
-            sequences.append(sequence)
+        sequences.append(sequence)
     print(f"done with list of sequences {incident}")
     return sequences
 
@@ -28,38 +27,27 @@ def compute_relevance_for_sequence(args):
 
 # Compute relevance for each incident
 def compute_relevance_for_incident(args):
-    """Calcul de la pertinence pour chaque incident."""
-    incident, data_alim, sequences, results3, h_all_class = args
-    df_i = data_alim
-    file = f'results3_{incident}.csv'
+    sequence, results3_file, df_i, len_df_i, sequences_by_incident = args  # Extract arguments
+    h_in_value = 0
+    h_in_best_case_value = 0
+    h_in_worst_case_value = 0
 
-    # Calcul de h_in pour chaque séquence
-    h_in = np.zeros(len(sequences))
-    for i, sequence in enumerate(sequences):
-        for row in range(len(results3[file])):
-            if sequence == results3[file]['itemsets'][row]:
-                h_in[i] = results3[file]['support'][row]
-                break
+    # Calcul de h_in
+    if sequence in sequences_by_incident:
+        index = sequences_by_incident.index(sequence)
+        h_in_value = results3_file['support'][sequences_by_incident.index(sequence)]
 
-    # Calcul des meilleurs et pires cas
-    h_in_best_case = np.zeros(len(sequences))
-    h_in_worst_case = np.zeros(len(sequences))
-    for i, sequence in enumerate(sequences):
-        for row in df_i['events_sequence']:
-            h_in_best_case[i] += 1
-        h_in_worst_case[i] = 1
+    # Calcul de h_in_best_case
+    h_in_best_case_value = sum(1 for row in df_i['events_sequence'])
 
-    # Normalisation des résultats
-    h_in_best_case = h_in_best_case / len(df_i)
-    h_in_worst_case = h_in_worst_case / len(df_i)
+    # Calcul de h_in_worst_case
+    h_in_worst_case_value = 1
 
-    # Calcul des pertinences pour chaque type de pertinence
-    relevance = h_in / h_all_class
-    relevance_best_case = h_in_best_case / h_all_class
-    relevance_worst_case = h_in_worst_case / h_all_class
+    # Normalisation pour h_in_best_case et h_in_worst_case
+    h_in_best_case_value /= len_df_i
+    h_in_worst_case_value /= len_df_i
 
-    print(f"done with incident {incident}")
-    return (incident, relevance, relevance_best_case, relevance_worst_case)
+    return h_in_value, h_in_best_case_value, h_in_worst_case_value
 
 
 
@@ -85,6 +73,8 @@ if __name__ == '__main__':
 
     with Pool() as pool:
         listsequences = pool.map(listofallsequences, args)
+    sequences_by_incident = {incident: sequences for incident, sequences in zip(incidents, listsequences)}
+    print("type of sequences_by_incident", type(sequences_by_incident[incidents[0]]))
     sequences = {tuple(sequence) for sequences_ in listsequences for sequence in sequences_}
     sequences = [list(seq) for seq in sequences]
     print(len(sequences))
@@ -105,24 +95,35 @@ if __name__ == '__main__':
 
     #################################################################################################################################
     ############################################# Compute relevance for each incident ################################################
-
-    pool_args3 = [(incident, data_alim[data_alim['incident_type'] == incident], sequences, results3, h_all_class) for incident in incidents]
-
-    # Paralléliser le calcul des pertinences
-    with Pool() as pool:
-        results = pool.map(compute_relevance_for_incident, pool_args3)
-
-    # Rassembler les résultats dans des dictionnaires
+     # Rassembler les résultats dans des dictionnaires
     relevance = {}
     relevance_best_case = {}
     relevance_worst_case = {}
+    
+    for incident in incidents:
+        df_i = data_alim[data_alim['incident_type'] == incident]
+        file = f'results3_{incident}.csv'
+        results3_file = results3[file]
+        len_df_i = len(df_i)
+        
+        pool_args3 = [(sequence, results3_file, df_i, len_df_i, sequences_by_incident[incident]) for sequence in sequences]
 
-    for result in results:
-        incident, rel, rel_best_case, rel_worst_case = result
-        relevance[incident] = rel
-        relevance_best_case[incident] = rel_best_case
-        relevance_worst_case[incident] = rel_worst_case
+        # Paralléliser le calcul des pertinences
+        with Pool() as pool:
+            results = pool.map(compute_relevance_for_incident, pool_args3)
 
+        # Séparer les résultats
+        h_in = np.array([res[0] for res in results])
+        h_in_best_case = np.array([res[1] for res in results])
+        h_in_worst_case = np.array([res[2] for res in results])
+
+        # Calculer les pertinences
+        relevance[incident] = h_in / h_all_class
+        relevance_best_case[incident] = h_in_best_case / h_all_class
+        relevance_worst_case[incident] = h_in_worst_case / h_all_class
+
+        print(f"done with incident {incident}")
+  
     print("Relevance computed for all incidents")
     print("done Pool 3")
 
@@ -156,7 +157,7 @@ if __name__ == '__main__':
             file.write('=============================================================================================================\n')
 
     for incident in incidents:
-        with open(f'Relevance_event_{incident}_alim_sequence.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        with open(f'relevance\\event_alim\\Relevance_event_{incident}_alim_sequence.csv', 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
             
             # Écrire l'en-tête

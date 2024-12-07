@@ -3,7 +3,7 @@ from mlxtend.frequent_patterns import fpgrowth
 import ast
 from multiprocessing import Pool
 
-MIN_SUPPORT = 0.6  # Adjusted to avoid overly restrictive filtering
+MIN_SUPPORT = 0.7  # Adjusted to avoid overly restrictive filtering
 
 def process_incident_type(args):
     """
@@ -14,7 +14,6 @@ def process_incident_type(args):
     """
     if incident == 16:
         min_support = 0.8
-    """
     if incident == 2:
         min_support = 0.84
     if incident == 4:#
@@ -35,6 +34,12 @@ def process_incident_type(args):
         min_support = 0.5
     if incident == 17:#
         min_support = 0.7
+    """
+    if incident == 99:#
+        min_support = 0.5
+    if incident == 3:#
+        min_support = 0.5
+        
     # Prepare transactions: each transaction is a sequence of events
     transactions = filtered_data['events + summary']
 
@@ -51,7 +56,7 @@ def process_incident_type(args):
     if not frequent_itemsets.empty:
         most_frequent = frequent_itemsets.sort_values(by='support', ascending=False)
         #frequent_itemsets = frequent_itemsets.nlargest(2048, 'support')
-        most_frequent = most_frequent.head(3000)
+        #most_frequent = most_frequent.head(3000)
         most_frequent['itemsets'] = frequent_itemsets['itemsets'].apply(lambda x: list(x))
         # Save results to CSV
         most_frequent.to_csv(f'results/results3/results3_{incident}.csv', sep=';', index=False)
