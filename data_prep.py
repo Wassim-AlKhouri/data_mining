@@ -64,6 +64,8 @@
 import pandas as pd
 import numpy as np
 import os
+import ast
+
 from multiprocessing import Pool, cpu_count
 
 # Charger le dataset
@@ -73,9 +75,10 @@ data = pd.read_csv('sncb_speed.csv', sep=';')
 def load_itemsets(directory):
     itemsets = set()
     for filename in os.listdir(directory):
-        incident_frequent_itemset = pd.read_csv(f'{directory}/{filename}', sep=',')
+        print(f'Loading {filename}...')
+        incident_frequent_itemset = pd.read_csv(f'{directory}/{filename}', sep=',', nrows=100)
         for _, row in incident_frequent_itemset.iterrows():
-            itemsets.add(tuple(row['Sequence']))
+            itemsets.add(row['Sequence'])
     return list(itemsets)
 
 itemsets = load_itemsets('relevance\\relevance\\event_speed_alim')
@@ -86,7 +89,7 @@ final_data = pd.DataFrame(0, index=range(len(data)), columns=[str(itemset) for i
 # Fonction pour traiter une ligne de données
 def process_row(row):
     row_result = [0] * len(itemsets)
-    row_set = set(row['events + speed + alimentation'])
+    row_set = row['events + speed + alimentation']
     for i, itemset in enumerate(itemsets):
         if set(itemset).issubset(row_set):
             row_result[i] = 1
